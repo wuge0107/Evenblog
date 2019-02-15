@@ -14,3 +14,7 @@
 4、路由方式 你的服务器地址 例如youserver出现了 welcome 默认访问的是Index控制器下的index方法
 
 5、该框架只试用于api,脚本使用 不适用是web服务。
+
+6、初次使用 请先在根目录进行以下命令 compoer install 命令执行之后方可使用
+
+7、如有使用上的问题 联系邮箱 yangsior@163.com
